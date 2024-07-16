@@ -14,7 +14,7 @@ In this project, we will build a basic model to predict customer churn using the
     - Rearranging Columns
     - Feature Scaling
     - Feature Selection
-6. Prediction using Logistic Regression**
+6. Prediction using Logistic Regression
 7. Prediction using Support Vector Classifier
 8. Prediction using Decision Tree Classifier
 9. Prediction using KNN Classifier
